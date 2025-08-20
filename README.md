@@ -10,7 +10,7 @@ L’objectif est d’illustrer un processus complet de **Business Intelligence**
 - Visualisation des indicateurs clés (KPI) et tendances  
 
 ---
-
+````bash
 ## Structure du projet
 
 Projet_filmdb/
@@ -34,14 +34,14 @@ Projet_filmdb/
 ---
 
 ## Installation & Utilisation
-### 1️⃣ Prérequis
+### 1️ Prérequis
 - [PostgreSQL 15+](https://www.postgresql.org/)  
 - [Power BI Desktop](https://powerbi.microsoft.com/)  
 - Git installé (`git --version`)
 
-### 2️⃣ Cloner le dépôt
+### 2️ Cloner le dépôt
 ```bash
-git clone https://github.com/Ibrahima-Bodian/Projet_filmdb.git
+git clone https://github.com/Ibrahima-Bodian/FilmDB_Data_Warehouse_-_Power_BI_Dashboard.git
 cd filmdb
 
 
